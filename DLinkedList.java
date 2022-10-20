@@ -1,5 +1,3 @@
-package P3P4_Tugas;
-
 public class DLinkedList {
     // buat node
     Node head;
