@@ -1,5 +1,3 @@
-package P3P4_Tugas;
-
 public class MainT4 { // Tugas 4 DoublyLinkedList
     public static void main(String[] args) {
         // buat list kosong
