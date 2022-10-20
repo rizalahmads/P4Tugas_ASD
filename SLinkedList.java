@@ -1,6 +1,3 @@
-package P3P4_Tugas;
-
-
 public class SLinkedList<E> {
     // Kelas Node bersarang
     private static class Node<E> {
